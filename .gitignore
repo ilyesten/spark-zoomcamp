@@ -13,3 +13,7 @@ data/
 *.csv.gz
 lib/
 *.jar
+partition/
+*.parquet
+*.crc
+_SUCCESS
